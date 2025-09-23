@@ -1,3 +1,2 @@
 <h1>SEMANTICA HTML</h1>
-
-<img width="1373" height="731" alt="Image" src="https://github.com/user-attachments/assets/8e7482e5-5a8e-4a0c-8c01-643206c63178" />
+<img width="1381" height="612" alt="Image" src="https://github.com/user-attachments/assets/89dcc5ec-50ef-4473-b860-559a9a1e1b97" />
