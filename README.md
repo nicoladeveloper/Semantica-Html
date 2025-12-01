@@ -13,7 +13,7 @@
 
 ---
 
-## 📸 Preview do Projeto
+##  Preview do Projeto
 
 <div align="center">
   <img width="581" alt="Tela HTML - Estruturação Semântica" src="https://github.com/user-attachments/assets/89dcc5ec-50ef-4473-b860-559a9a1e1b97" />
