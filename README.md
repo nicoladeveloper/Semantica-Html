@@ -43,17 +43,7 @@ Este projeto demonstra a aplicação de **HTML Semântico**, explorando as princ
 - `<textarea>` - Áreas de texto
 
 </td>
-<td>
 
-### Formatação & Estrutura
-- Formatação de Textos (Parte 1 & 2)
-- `<div>` e `<span>` - Containers
-- `<fieldset>` - Agrupamento de campos
-- `<embed>` - Conteúdo incorporado
-- `<iframe>` - Frames inline
-- 🎨 Teoria das Cores
-
-</td>
 </tr>
 </table>
 
@@ -73,11 +63,11 @@ Este projeto demonstra a aplicação de **HTML Semântico**, explorando as princ
 ## Conceitos Principais
 
 
-✅ Estruturação Semântica
-✅ Acessibilidade Web
-✅ Boas Práticas HTML
-✅ Formulários Completos
-✅ Organização de Conteúdo
+ • Estruturação Semântica
+ • Acessibilidade Web
+ • Boas Práticas HTML
+ • Formulários Completos
+ • Organização de Conteúdo
 
 
 ---
